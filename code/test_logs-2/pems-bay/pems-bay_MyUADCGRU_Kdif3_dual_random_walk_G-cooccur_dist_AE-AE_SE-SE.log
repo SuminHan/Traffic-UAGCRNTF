@@ -1,0 +1,20 @@
+2023-05-30 17:08:11,741 - Namespace(dataset='pems-bay', model_name='MyUADCGRU', graph_type='cooccur_dist', restore_model=False, train_again=False, activity_embedding=True, timestamp_embedding=False, sensor_embedding=True, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2, graph_file='../graph_generation/pems-bay/urban_activity_sim_ua.pkl')
+2023-05-30 17:39:19,006 - Epoch 1: {'loss': 1.3508646488189697, 'val_loss': 1.5403691530227661, 'lr': 1.0000001e-06}
+2023-05-30 18:10:17,159 - Epoch 2: {'loss': 1.3508210182189941, 'val_loss': 1.5409175157546997, 'lr': 1.0000001e-06}
+2023-05-30 18:41:15,121 - Epoch 3: {'loss': 1.3507863283157349, 'val_loss': 1.5404103994369507, 'lr': 1.0000001e-06}
+2023-05-30 19:12:13,192 - Epoch 4: {'loss': 1.3506985902786255, 'val_loss': 1.5405313968658447, 'lr': 1.0000001e-07}
+2023-05-30 19:43:11,284 - Epoch 5: {'loss': 1.3506871461868286, 'val_loss': 1.5405815839767456, 'lr': 1.0000001e-07}
+2023-05-30 20:14:09,585 - Epoch 6: {'loss': 1.3506733179092407, 'val_loss': 1.5405837297439575, 'lr': 1.0000001e-08}
+2023-05-30 20:17:08,691 - Final test:
+2023-05-30 20:17:08,858 - Horizon 01 (MAE/RMSE/MAPE):	0.8771	1.5770	0.0170
+2023-05-30 20:17:09,022 - Horizon 02 (MAE/RMSE/MAPE):	1.1299	2.2287	0.0228
+2023-05-30 20:17:09,192 - Horizon 03 (MAE/RMSE/MAPE):	1.3065	2.7461	0.0274
+2023-05-30 20:17:09,364 - Horizon 04 (MAE/RMSE/MAPE):	1.4369	3.1489	0.0312
+2023-05-30 20:17:09,531 - Horizon 05 (MAE/RMSE/MAPE):	1.5355	3.4557	0.0341
+2023-05-30 20:17:09,696 - Horizon 06 (MAE/RMSE/MAPE):	1.6134	3.6890	0.0365
+2023-05-30 20:17:09,864 - Horizon 07 (MAE/RMSE/MAPE):	1.6759	3.8699	0.0384
+2023-05-30 20:17:10,030 - Horizon 08 (MAE/RMSE/MAPE):	1.7275	4.0120	0.0399
+2023-05-30 20:17:10,197 - Horizon 09 (MAE/RMSE/MAPE):	1.7704	4.1243	0.0412
+2023-05-30 20:17:10,362 - Horizon 10 (MAE/RMSE/MAPE):	1.8068	4.2135	0.0423
+2023-05-30 20:17:10,531 - Horizon 11 (MAE/RMSE/MAPE):	1.8387	4.2868	0.0432
+2023-05-30 20:17:10,697 - Horizon 12 (MAE/RMSE/MAPE):	1.8691	4.3509	0.0441

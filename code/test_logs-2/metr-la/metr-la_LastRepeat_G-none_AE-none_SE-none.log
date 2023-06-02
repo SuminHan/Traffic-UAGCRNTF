@@ -1,0 +1,20 @@
+2023-05-31 14:56:20,107 - Namespace(dataset='metr-la', model_name='LastRepeat', graph_type='none', restore_model=False, train_again=False, activity_embedding=False, timestamp_embedding=False, sensor_embedding=False, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2)
+2023-05-31 14:56:21,664 - Epoch 1: {'loss': 4.625856399536133, 'val_loss': 4.990964889526367, 'lr': 0.001}
+2023-05-31 14:56:22,415 - Epoch 2: {'loss': 4.625663757324219, 'val_loss': 4.990964889526367, 'lr': 0.001}
+2023-05-31 14:56:23,146 - Epoch 3: {'loss': 4.625537872314453, 'val_loss': 4.990964889526367, 'lr': 0.001}
+2023-05-31 14:56:23,861 - Epoch 4: {'loss': 4.624905586242676, 'val_loss': 4.990964889526367, 'lr': 0.000100000005}
+2023-05-31 14:56:24,568 - Epoch 5: {'loss': 4.626936912536621, 'val_loss': 4.990964889526367, 'lr': 0.000100000005}
+2023-05-31 14:56:25,277 - Epoch 6: {'loss': 4.626245021820068, 'val_loss': 4.990964889526367, 'lr': 1.0000001e-05}
+2023-05-31 14:56:25,707 - Final test:
+2023-05-31 14:56:25,768 - Horizon 01 (MAE/RMSE/MAPE):	3.0484	6.0757	0.0684
+2023-05-31 14:56:25,824 - Horizon 02 (MAE/RMSE/MAPE):	3.5989	7.6214	0.0829
+2023-05-31 14:56:25,881 - Horizon 03 (MAE/RMSE/MAPE):	4.0169	8.6938	0.0939
+2023-05-31 14:56:25,937 - Horizon 04 (MAE/RMSE/MAPE):	4.3913	9.5919	0.1038
+2023-05-31 14:56:25,994 - Horizon 05 (MAE/RMSE/MAPE):	4.7468	10.3981	0.1131
+2023-05-31 14:56:26,050 - Horizon 06 (MAE/RMSE/MAPE):	5.0938	11.1322	0.1221
+2023-05-31 14:56:26,107 - Horizon 07 (MAE/RMSE/MAPE):	5.4149	11.7686	0.1305
+2023-05-31 14:56:26,164 - Horizon 08 (MAE/RMSE/MAPE):	5.7230	12.3589	0.1386
+2023-05-31 14:56:26,222 - Horizon 09 (MAE/RMSE/MAPE):	6.0180	12.9095	0.1462
+2023-05-31 14:56:26,279 - Horizon 10 (MAE/RMSE/MAPE):	6.2864	13.3717	0.1534
+2023-05-31 14:56:26,335 - Horizon 11 (MAE/RMSE/MAPE):	6.5422	13.7983	0.1602
+2023-05-31 14:56:26,392 - Horizon 12 (MAE/RMSE/MAPE):	6.7952	14.2086	0.1671

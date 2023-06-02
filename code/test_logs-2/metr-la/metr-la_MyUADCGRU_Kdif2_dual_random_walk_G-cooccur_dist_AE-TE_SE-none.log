@@ -1,0 +1,9 @@
+2023-05-30 02:27:35,917 - Namespace(dataset='metr-la', model_name='MyUADCGRU', graph_type='cooccur_dist', restore_model=False, activity_embedding=False, timestamp_embedding=True, sensor_embedding=False, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=2, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2, graph_file='../graph_generation/metr-la/urban_activity_sim_ua.pkl')
+2023-05-30 02:32:09,370 - Epoch 1: {'loss': 3.6813461780548096, 'val_loss': 3.2103271484375, 'lr': 0.001}
+2023-05-30 02:36:37,796 - Epoch 2: {'loss': 3.21528697013855, 'val_loss': 3.040350914001465, 'lr': 0.001}
+2023-05-30 02:41:06,176 - Epoch 3: {'loss': 3.0974466800689697, 'val_loss': 2.945653200149536, 'lr': 0.001}
+2023-05-30 02:45:34,498 - Epoch 4: {'loss': 3.0127112865448, 'val_loss': 2.946199893951416, 'lr': 0.001}
+2023-05-30 02:50:02,938 - Epoch 5: {'loss': 2.9595248699188232, 'val_loss': 2.889888048171997, 'lr': 0.001}
+2023-05-30 02:54:31,414 - Epoch 6: {'loss': 2.914151191711426, 'val_loss': 2.8813960552215576, 'lr': 0.001}
+2023-05-30 02:58:59,834 - Epoch 7: {'loss': 2.874932289123535, 'val_loss': 2.8825125694274902, 'lr': 0.001}
+2023-05-30 03:03:28,296 - Epoch 8: {'loss': 2.849334478378296, 'val_loss': 2.8545286655426025, 'lr': 0.001}

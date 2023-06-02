@@ -1,0 +1,30 @@
+2023-05-29 15:45:51,233 - Namespace(dataset='pems-bay', model_name='MyUAGCTransformer', graph_type='cooccur_dist', restore_model=False, activity_embedding=True, timestamp_embedding=False, sensor_embedding=False, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2, graph_file='../graph_generation/pems-bay/urban_activity_sim_ua.pkl')
+2023-05-29 15:46:01,605 - Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.1431s vs `on_train_batch_end` time: 0.1506s). Check your callbacks.
+2023-05-29 15:52:30,995 - Epoch 1: {'loss': 2.4684174060821533, 'val_loss': 2.0617029666900635, 'lr': 0.001}
+2023-05-29 15:59:00,880 - Epoch 2: {'loss': 1.8798878192901611, 'val_loss': 1.944593906402588, 'lr': 0.001}
+2023-05-29 16:05:31,033 - Epoch 3: {'loss': 1.8093137741088867, 'val_loss': 1.896852731704712, 'lr': 0.001}
+2023-05-29 16:12:01,103 - Epoch 4: {'loss': 1.7629879713058472, 'val_loss': 1.8807545900344849, 'lr': 0.001}
+2023-05-29 16:18:30,738 - Epoch 5: {'loss': 1.715291142463684, 'val_loss': 1.7930351495742798, 'lr': 0.001}
+2023-05-29 16:25:00,295 - Epoch 6: {'loss': 1.6793358325958252, 'val_loss': 1.8361937999725342, 'lr': 0.001}
+2023-05-29 16:31:30,132 - Epoch 7: {'loss': 1.6500126123428345, 'val_loss': 1.7486447095870972, 'lr': 0.001}
+2023-05-29 16:38:00,056 - Epoch 8: {'loss': 1.6229146718978882, 'val_loss': 1.756853699684143, 'lr': 0.001}
+2023-05-29 16:44:29,763 - Epoch 9: {'loss': 1.5983390808105469, 'val_loss': 1.6924008131027222, 'lr': 0.001}
+2023-05-29 16:50:59,021 - Epoch 10: {'loss': 1.5814186334609985, 'val_loss': 1.7110612392425537, 'lr': 0.001}
+2023-05-29 16:51:41,875 - Horizon 01 (MAE/RMSE/MAPE):	0.9237	1.6448	0.0183
+2023-05-29 16:51:41,954 - Horizon 02 (MAE/RMSE/MAPE):	1.1830	2.3174	0.0242
+2023-05-29 16:51:42,034 - Horizon 03 (MAE/RMSE/MAPE):	1.3692	2.8466	0.0290
+2023-05-29 16:51:42,113 - Horizon 04 (MAE/RMSE/MAPE):	1.5093	3.2530	0.0328
+2023-05-29 16:51:42,193 - Horizon 05 (MAE/RMSE/MAPE):	1.6159	3.5586	0.0358
+2023-05-29 16:51:42,273 - Horizon 06 (MAE/RMSE/MAPE):	1.7015	3.7928	0.0384
+2023-05-29 16:51:42,352 - Horizon 07 (MAE/RMSE/MAPE):	1.7735	3.9770	0.0405
+2023-05-29 16:51:42,432 - Horizon 08 (MAE/RMSE/MAPE):	1.8343	4.1209	0.0423
+2023-05-29 16:51:42,512 - Horizon 09 (MAE/RMSE/MAPE):	1.8886	4.2405	0.0438
+2023-05-29 16:51:42,592 - Horizon 10 (MAE/RMSE/MAPE):	1.9378	4.3450	0.0452
+2023-05-29 16:51:42,671 - Horizon 11 (MAE/RMSE/MAPE):	1.9833	4.4376	0.0466
+2023-05-29 16:51:42,747 - Horizon 12 (MAE/RMSE/MAPE):	2.0276	4.5260	0.0478
+2023-05-29 16:58:12,903 - Epoch 11: {'loss': 1.5641834735870361, 'val_loss': 1.6993725299835205, 'lr': 0.001}
+2023-05-29 17:04:43,057 - Epoch 12: {'loss': 1.4833537340164185, 'val_loss': 1.6386737823486328, 'lr': 0.000100000005}
+2023-05-29 17:11:13,087 - Epoch 13: {'loss': 1.469035267829895, 'val_loss': 1.638393521308899, 'lr': 0.000100000005}
+2023-05-29 17:17:43,189 - Epoch 14: {'loss': 1.46139657497406, 'val_loss': 1.6301370859146118, 'lr': 0.000100000005}
+2023-05-29 17:24:12,579 - Epoch 15: {'loss': 1.454483985900879, 'val_loss': 1.6300029754638672, 'lr': 0.000100000005}
+2023-05-29 17:30:42,110 - Epoch 16: {'loss': 1.4491106271743774, 'val_loss': 1.6281120777130127, 'lr': 0.000100000005}

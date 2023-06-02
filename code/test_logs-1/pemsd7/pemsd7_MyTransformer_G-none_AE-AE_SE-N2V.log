@@ -1,0 +1,7 @@
+2023-05-28 19:19:16,708 - Namespace(dataset='pemsd7', model_name='MyTransformer', graph_type='none', restore_model=False, activity_embedding=True, timestamp_embedding=False, sensor_embedding=False, sensor_node2vec=True, P=12, Q=9, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2)
+2023-05-28 19:20:17,559 - Epoch 1: {'loss': 4.396121501922607, 'val_loss': 3.0524048805236816, 'lr': 0.001}
+2023-05-28 19:21:10,186 - Epoch 2: {'loss': 3.051943063735962, 'val_loss': 2.862187147140503, 'lr': 0.001}
+2023-05-28 19:22:02,566 - Epoch 3: {'loss': 2.8516993522644043, 'val_loss': 2.869572877883911, 'lr': 0.001}
+2023-05-28 19:22:55,345 - Epoch 4: {'loss': 2.768503189086914, 'val_loss': 2.7264316082000732, 'lr': 0.001}
+2023-05-28 19:23:47,720 - Epoch 5: {'loss': 2.6995670795440674, 'val_loss': 2.749561309814453, 'lr': 0.001}
+2023-05-28 19:24:40,414 - Epoch 6: {'loss': 2.661398410797119, 'val_loss': 2.6784188747406006, 'lr': 0.001}

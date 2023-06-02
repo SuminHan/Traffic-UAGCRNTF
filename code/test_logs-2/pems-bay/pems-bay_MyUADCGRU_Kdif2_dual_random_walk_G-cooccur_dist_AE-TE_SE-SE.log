@@ -1,0 +1,8 @@
+2023-05-30 06:11:02,814 - Namespace(dataset='pems-bay', model_name='MyUADCGRU', graph_type='cooccur_dist', restore_model=False, train_again=False, activity_embedding=False, timestamp_embedding=True, sensor_embedding=True, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=2, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2, graph_file='../graph_generation/pems-bay/urban_activity_sim_ua.pkl')
+2023-05-30 06:24:13,353 - Epoch 1: {'loss': 1.3872607946395874, 'val_loss': 1.5544546842575073, 'lr': 0.001}
+2023-05-30 06:37:16,533 - Epoch 2: {'loss': 1.3770893812179565, 'val_loss': 1.5745707750320435, 'lr': 0.001}
+2023-05-30 06:50:19,737 - Epoch 3: {'loss': 1.365685224533081, 'val_loss': 1.5511897802352905, 'lr': 0.001}
+2023-05-30 07:03:22,844 - Epoch 4: {'loss': 1.3567246198654175, 'val_loss': 1.5438787937164307, 'lr': 0.001}
+2023-05-30 07:16:25,996 - Epoch 5: {'loss': 1.3469120264053345, 'val_loss': 1.540189266204834, 'lr': 0.001}
+2023-05-30 07:29:29,367 - Epoch 6: {'loss': 1.338543176651001, 'val_loss': 1.5327966213226318, 'lr': 0.001}
+2023-05-30 07:42:32,840 - Epoch 7: {'loss': 1.3305606842041016, 'val_loss': 1.546280860900879, 'lr': 0.001}

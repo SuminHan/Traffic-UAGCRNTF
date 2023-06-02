@@ -1,0 +1,5 @@
+2023-05-30 02:27:35,979 - Namespace(dataset='metr-la', model_name='DCGRU', graph_type='cooccur_dist', restore_model=False, activity_embedding=False, timestamp_embedding=True, sensor_embedding=False, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2, graph_file='../graph_generation/metr-la/urban_activity_sim_ua.pkl')
+2023-05-30 02:36:26,200 - Epoch 1: {'loss': 3.837265729904175, 'val_loss': 3.375457525253296, 'lr': 0.001}
+2023-05-30 02:45:10,087 - Epoch 2: {'loss': 3.396103858947754, 'val_loss': 3.171766996383667, 'lr': 0.001}
+2023-05-30 02:53:53,994 - Epoch 3: {'loss': 3.2618770599365234, 'val_loss': 3.12388277053833, 'lr': 0.001}
+2023-05-30 03:02:37,910 - Epoch 4: {'loss': 3.1719014644622803, 'val_loss': 3.088606119155884, 'lr': 0.001}

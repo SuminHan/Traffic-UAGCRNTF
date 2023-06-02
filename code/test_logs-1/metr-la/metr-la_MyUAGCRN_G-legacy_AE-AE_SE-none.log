@@ -1,0 +1,13 @@
+2023-05-29 17:53:36,104 - Namespace(dataset='metr-la', model_name='MyUAGCRN', graph_type='legacy', restore_model=False, activity_embedding=True, timestamp_embedding=False, sensor_embedding=False, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2, graph_file='../graph_generation/metr-la/original_adj_mx.pkl')
+2023-05-29 17:53:36,762 - AutoGraph could not transform <function Model.make_train_function.<locals>.train_function at 0x7fd11bc44a60> and will run it as-is.
+Please report this to the TensorFlow team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output.
+Cause: [Errno 122] Disk quota exceeded: '/tmp/__autograph_generated_fileymsj9yru.py'
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2023-05-29 17:53:37,123 - AutoGraph could not transform <function custom_mae_loss at 0x7fd11d8f6440> and will run it as-is.
+Please report this to the TensorFlow team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output.
+Cause: [Errno 122] Disk quota exceeded: '/tmp/__autograph_generated_filef91vob2y.py'
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+2023-05-29 17:54:39,633 - AutoGraph could not transform <function Model.make_test_function.<locals>.test_function at 0x7fd10c6156c0> and will run it as-is.
+Please report this to the TensorFlow team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output.
+Cause: [Errno 122] Disk quota exceeded: '/tmp/__autograph_generated_filejjxbaev4.py'
+To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert

@@ -1,0 +1,10 @@
+2023-05-30 08:31:50,956 - Namespace(dataset='metr-la', model_name='MyUAGCTransformerMask2', graph_type='cooccur_dist', restore_model=False, train_again=True, activity_embedding=True, timestamp_embedding=False, sensor_embedding=True, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2, graph_file='../graph_generation/metr-la/urban_activity_sim_ua.pkl')
+2023-05-30 08:31:58,866 - Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.1485s vs `on_train_batch_end` time: 0.1697s). Check your callbacks.
+2023-05-30 08:36:38,241 - Epoch 1: {'loss': 4.563066482543945, 'val_loss': 3.5750865936279297, 'lr': 0.001}
+2023-05-30 08:41:18,596 - Epoch 2: {'loss': 3.462177038192749, 'val_loss': 3.2161245346069336, 'lr': 0.001}
+2023-05-30 08:45:58,887 - Epoch 3: {'loss': 3.2417471408843994, 'val_loss': 3.0462160110473633, 'lr': 0.001}
+2023-05-30 08:50:39,105 - Epoch 4: {'loss': 3.11575984954834, 'val_loss': 3.007948398590088, 'lr': 0.001}
+2023-05-30 08:55:19,165 - Epoch 5: {'loss': 3.0553855895996094, 'val_loss': 2.9952392578125, 'lr': 0.001}
+2023-05-30 08:59:59,298 - Epoch 6: {'loss': 3.0027880668640137, 'val_loss': 2.915557622909546, 'lr': 0.001}
+2023-05-30 09:04:39,376 - Epoch 7: {'loss': 2.9745192527770996, 'val_loss': 2.8111512660980225, 'lr': 0.001}
+2023-05-30 09:09:19,041 - Epoch 8: {'loss': 2.9401962757110596, 'val_loss': 2.870720863342285, 'lr': 0.001}

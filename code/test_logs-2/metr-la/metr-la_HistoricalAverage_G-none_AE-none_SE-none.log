@@ -1,0 +1,20 @@
+2023-05-31 14:54:54,603 - Namespace(dataset='metr-la', model_name='HistoricalAverage', graph_type='none', restore_model=False, train_again=False, activity_embedding=False, timestamp_embedding=False, sensor_embedding=False, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2)
+2023-05-31 14:54:56,078 - Epoch 1: {'loss': 5.129054069519043, 'val_loss': 5.573895454406738, 'lr': 0.001}
+2023-05-31 14:54:56,783 - Epoch 2: {'loss': 5.127886772155762, 'val_loss': 5.573895454406738, 'lr': 0.001}
+2023-05-31 14:54:57,462 - Epoch 3: {'loss': 5.128126621246338, 'val_loss': 5.573895454406738, 'lr': 0.001}
+2023-05-31 14:54:58,179 - Epoch 4: {'loss': 5.129846096038818, 'val_loss': 5.573895454406738, 'lr': 0.000100000005}
+2023-05-31 14:54:58,901 - Epoch 5: {'loss': 5.129557132720947, 'val_loss': 5.573895454406738, 'lr': 0.000100000005}
+2023-05-31 14:54:59,594 - Epoch 6: {'loss': 5.133997440338135, 'val_loss': 5.573895454406738, 'lr': 1.0000001e-05}
+2023-05-31 14:55:00,014 - Final test:
+2023-05-31 14:55:00,078 - Horizon 01 (MAE/RMSE/MAPE):	4.3348	8.8710	0.1053
+2023-05-31 14:55:00,137 - Horizon 02 (MAE/RMSE/MAPE):	4.6812	9.6183	0.1144
+2023-05-31 14:55:00,197 - Horizon 03 (MAE/RMSE/MAPE):	5.0030	10.2755	0.1229
+2023-05-31 14:55:00,257 - Horizon 04 (MAE/RMSE/MAPE):	5.3091	10.8699	0.1309
+2023-05-31 14:55:00,316 - Horizon 05 (MAE/RMSE/MAPE):	5.6029	11.4154	0.1386
+2023-05-31 14:55:00,376 - Horizon 06 (MAE/RMSE/MAPE):	5.8845	11.9183	0.1461
+2023-05-31 14:55:00,435 - Horizon 07 (MAE/RMSE/MAPE):	6.1538	12.3853	0.1532
+2023-05-31 14:55:00,495 - Horizon 08 (MAE/RMSE/MAPE):	6.4127	12.8232	0.1601
+2023-05-31 14:55:00,555 - Horizon 09 (MAE/RMSE/MAPE):	6.6623	13.2365	0.1667
+2023-05-31 14:55:00,614 - Horizon 10 (MAE/RMSE/MAPE):	6.9043	13.6295	0.1731
+2023-05-31 14:55:00,674 - Horizon 11 (MAE/RMSE/MAPE):	7.1395	14.0039	0.1794
+2023-05-31 14:55:00,734 - Horizon 12 (MAE/RMSE/MAPE):	7.3675	14.3610	0.1855

@@ -1,0 +1,5 @@
+2023-05-28 21:26:10,024 - Namespace(dataset='pemsd7', model_name='MyARLSTM', graph_type='none', restore_model=False, activity_embedding=True, timestamp_embedding=False, sensor_embedding=False, sensor_node2vec=True, P=12, Q=9, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2)
+2023-05-28 21:26:17,296 - Epoch 1: {'loss': 3.438875913619995, 'val_loss': 2.722426652908325, 'lr': 0.001}
+2023-05-28 21:26:21,065 - Epoch 2: {'loss': 2.569211006164551, 'val_loss': 2.687657356262207, 'lr': 0.001}
+2023-05-28 21:26:24,772 - Epoch 3: {'loss': 2.4818766117095947, 'val_loss': 2.695002317428589, 'lr': 0.001}
+2023-05-28 21:26:28,529 - Epoch 4: {'loss': 2.4335930347442627, 'val_loss': 2.5929903984069824, 'lr': 0.001}

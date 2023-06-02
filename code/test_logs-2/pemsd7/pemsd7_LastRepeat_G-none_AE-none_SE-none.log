@@ -1,0 +1,17 @@
+2023-05-31 14:57:53,397 - Namespace(dataset='pemsd7', model_name='LastRepeat', graph_type='none', restore_model=False, train_again=False, activity_embedding=False, timestamp_embedding=False, sensor_embedding=False, sensor_node2vec=False, P=12, Q=9, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2)
+2023-05-31 14:57:54,158 - Epoch 1: {'loss': 2.9948344230651855, 'val_loss': 3.0538363456726074, 'lr': 0.001}
+2023-05-31 14:57:54,432 - Epoch 2: {'loss': 2.99483323097229, 'val_loss': 3.0538363456726074, 'lr': 0.001}
+2023-05-31 14:57:54,712 - Epoch 3: {'loss': 2.9948341846466064, 'val_loss': 3.0538363456726074, 'lr': 0.001}
+2023-05-31 14:57:54,990 - Epoch 4: {'loss': 2.994832754135132, 'val_loss': 3.0538363456726074, 'lr': 0.000100000005}
+2023-05-31 14:57:55,272 - Epoch 5: {'loss': 2.9948339462280273, 'val_loss': 3.0538363456726074, 'lr': 0.000100000005}
+2023-05-31 14:57:55,548 - Epoch 6: {'loss': 2.9948341846466064, 'val_loss': 3.0538363456726074, 'lr': 1.0000001e-05}
+2023-05-31 14:57:55,773 - Final test:
+2023-05-31 14:57:55,794 - Horizon 01 (MAE/RMSE/MAPE):	1.3958	2.4028	0.0306
+2023-05-31 14:57:55,813 - Horizon 02 (MAE/RMSE/MAPE):	2.0216	3.6662	0.0452
+2023-05-31 14:57:55,832 - Horizon 03 (MAE/RMSE/MAPE):	2.4873	4.6466	0.0566
+2023-05-31 14:57:55,851 - Horizon 04 (MAE/RMSE/MAPE):	2.8716	5.4593	0.0662
+2023-05-31 14:57:55,869 - Horizon 05 (MAE/RMSE/MAPE):	3.2026	6.1524	0.0747
+2023-05-31 14:57:55,889 - Horizon 06 (MAE/RMSE/MAPE):	3.5050	6.7693	0.0827
+2023-05-31 14:57:55,907 - Horizon 07 (MAE/RMSE/MAPE):	3.7891	7.3318	0.0902
+2023-05-31 14:57:55,926 - Horizon 08 (MAE/RMSE/MAPE):	4.0562	7.8473	0.0973
+2023-05-31 14:57:55,945 - Horizon 09 (MAE/RMSE/MAPE):	4.3078	8.3231	0.1041

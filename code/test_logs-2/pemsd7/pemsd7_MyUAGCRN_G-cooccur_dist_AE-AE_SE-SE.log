@@ -1,0 +1,5 @@
+2023-05-30 09:24:17,054 - Namespace(dataset='pemsd7', model_name='MyUAGCRN', graph_type='cooccur_dist', restore_model=False, train_again=True, activity_embedding=True, timestamp_embedding=False, sensor_embedding=True, sensor_node2vec=False, P=12, Q=9, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2, graph_file='../graph_generation/pemsd7/urban_activity_sim_ua.pkl')
+2023-05-30 09:24:45,438 - Epoch 1: {'loss': 3.0788047313690186, 'val_loss': 2.7265355587005615, 'lr': 0.001}
+2023-05-30 09:25:08,839 - Epoch 2: {'loss': 2.5450146198272705, 'val_loss': 2.586907386779785, 'lr': 0.001}
+2023-05-30 09:25:32,376 - Epoch 3: {'loss': 2.4343972206115723, 'val_loss': 2.512632369995117, 'lr': 0.001}
+2023-05-30 09:25:55,942 - Epoch 4: {'loss': 2.3549771308898926, 'val_loss': 2.475289821624756, 'lr': 0.001}

@@ -1,0 +1,5 @@
+2023-05-29 17:10:14,802 - Namespace(dataset='pems-bay', model_name='MyUAGCTransformer', graph_type='legacy', restore_model=False, activity_embedding=True, timestamp_embedding=False, sensor_embedding=False, sensor_node2vec=False, P=12, Q=12, D=64, K=8, d=8, L=3, K_diffusion=3, filter_type='dual_random_walk', train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, batch_size=32, max_epoch=100, optimizer='adam', learning_rate=0.001, patience_stop=5, patience_lr=2, graph_file='../graph_generation/pems-bay/original_adj_mx.pkl')
+2023-05-29 17:10:25,287 - Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.1353s vs `on_train_batch_end` time: 0.1426s). Check your callbacks.
+2023-05-29 17:16:33,417 - Epoch 1: {'loss': 2.295250177383423, 'val_loss': 2.0582120418548584, 'lr': 0.001}
+2023-05-29 17:22:41,250 - Epoch 2: {'loss': 1.8775842189788818, 'val_loss': 2.044156312942505, 'lr': 0.001}
+2023-05-29 17:28:49,491 - Epoch 3: {'loss': 1.8343051671981812, 'val_loss': 1.9915177822113037, 'lr': 0.001}
