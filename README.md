@@ -67,12 +67,18 @@ Corrected sensor location with osm path files are found in
 
 ## METR-LA
 ![Alt Text](figures/corrected-metr-la.jpg)
+![Alt Text](figures/metr-la-full.png)
+![Alt Text](figures/adj_comparison_metr-la.png)
 
 ## PEMS-BAY
 ![Alt Text](figures/corrected-pems-bay.jpg)
+![Alt Text](figures/pems-bay-full.png)
+![Alt Text](figures/adj_comparison_pems-bay.png)
 
 ## PEMSD7
 ![Alt Text](figures/corrected-pemsd7.jpg)
+![Alt Text](figures/pemsd7-full.png)
+![Alt Text](figures/adj_comparison_pemsd7.png)
 
 
 
