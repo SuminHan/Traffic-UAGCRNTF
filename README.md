@@ -1,4 +1,7 @@
 # Traffic-UAGCRNTF
+
+**Enhancing Spatiotemporal Traffic Prediction through Urban Human Activity Analysis**
+
 Traffic Prediction models - UAGCRN and UAGCTransformer
 
 # Code
