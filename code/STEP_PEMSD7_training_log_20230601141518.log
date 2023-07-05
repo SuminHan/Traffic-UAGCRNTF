@@ -26,9 +26,6 @@ Parameter Group 0
 2023-06-01 14:22:54,198 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 3.5418, Test RMSE: 6.5238, Test MAPE: 0.0899
 2023-06-01 14:22:54,201 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 3.5966, Test RMSE: 6.6658, Test MAPE: 0.0905
 2023-06-01 14:22:54,205 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.7572, Test RMSE: 6.9473, Test MAPE: 0.0949
-2023-06-01 14:22:54,208 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.8894, Test RMSE: 7.1592, Test MAPE: 0.0984
-2023-06-01 14:22:54,211 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.9939, Test RMSE: 7.3495, Test MAPE: 0.1013
-2023-06-01 14:22:54,214 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.9612, Test RMSE: 7.3515, Test MAPE: 0.0999
 2023-06-01 14:22:54,246 - easytorch-training - INFO - Result <test>: [test_time: 157.80 (s), test_MAE: 3.2463, test_RMSE: 6.0814, test_MAPE: 0.0820]
 2023-06-01 14:22:54,679 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_001.pt saved
 2023-06-01 14:22:54,680 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:54:59
@@ -46,9 +43,6 @@ Parameter Group 0
 2023-06-01 14:30:31,521 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8994, Test RMSE: 5.5872, Test MAPE: 0.0729
 2023-06-01 14:30:31,524 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9980, Test RMSE: 5.8114, Test MAPE: 0.0759
 2023-06-01 14:30:31,527 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.0929, Test RMSE: 6.0041, Test MAPE: 0.0785
-2023-06-01 14:30:31,531 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.1936, Test RMSE: 6.1683, Test MAPE: 0.0812
-2023-06-01 14:30:31,534 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.2810, Test RMSE: 6.3328, Test MAPE: 0.0836
-2023-06-01 14:30:31,537 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.3598, Test RMSE: 6.4645, Test MAPE: 0.0857
 2023-06-01 14:30:31,571 - easytorch-training - INFO - Result <test>: [test_time: 157.79 (s), test_MAE: 2.6707, test_RMSE: 5.2205, test_MAPE: 0.0668]
 2023-06-01 14:30:32,004 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_002.pt saved
 2023-06-01 14:30:32,004 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:15
@@ -66,9 +60,6 @@ Parameter Group 0
 2023-06-01 14:38:09,287 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8623, Test RMSE: 5.6182, Test MAPE: 0.0748
 2023-06-01 14:38:09,290 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9598, Test RMSE: 5.8306, Test MAPE: 0.0780
 2023-06-01 14:38:09,293 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.0430, Test RMSE: 6.0023, Test MAPE: 0.0805
-2023-06-01 14:38:09,297 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.1183, Test RMSE: 6.1558, Test MAPE: 0.0831
-2023-06-01 14:38:09,300 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1899, Test RMSE: 6.2958, Test MAPE: 0.0855
-2023-06-01 14:38:09,303 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.2555, Test RMSE: 6.4025, Test MAPE: 0.0874
 2023-06-01 14:38:09,337 - easytorch-training - INFO - Result <test>: [test_time: 157.53 (s), test_MAE: 2.6119, test_RMSE: 5.2153, test_MAPE: 0.0670]
 2023-06-01 14:38:09,768 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_003.pt saved
 2023-06-01 14:38:09,768 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:55
@@ -86,9 +77,6 @@ Parameter Group 0
 2023-06-01 14:45:46,752 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8355, Test RMSE: 5.6308, Test MAPE: 0.0724
 2023-06-01 14:45:46,755 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9480, Test RMSE: 5.8710, Test MAPE: 0.0756
 2023-06-01 14:45:46,758 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.0505, Test RMSE: 6.0507, Test MAPE: 0.0786
-2023-06-01 14:45:46,762 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.1253, Test RMSE: 6.2084, Test MAPE: 0.0808
-2023-06-01 14:45:46,765 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.2020, Test RMSE: 6.3394, Test MAPE: 0.0827
-2023-06-01 14:45:46,768 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.2652, Test RMSE: 6.4623, Test MAPE: 0.0846
 2023-06-01 14:45:46,803 - easytorch-training - INFO - Result <test>: [test_time: 157.69 (s), test_MAE: 2.6041, test_RMSE: 5.2340, test_MAPE: 0.0652]
 2023-06-01 14:45:47,238 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_004.pt saved
 2023-06-01 14:45:47,239 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:07
@@ -106,9 +94,6 @@ Parameter Group 0
 2023-06-01 14:53:22,816 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8130, Test RMSE: 5.5885, Test MAPE: 0.0711
 2023-06-01 14:53:22,819 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9133, Test RMSE: 5.8034, Test MAPE: 0.0742
 2023-06-01 14:53:22,822 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.0016, Test RMSE: 5.9851, Test MAPE: 0.0769
-2023-06-01 14:53:22,825 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0739, Test RMSE: 6.1312, Test MAPE: 0.0792
-2023-06-01 14:53:22,829 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1399, Test RMSE: 6.2651, Test MAPE: 0.0812
-2023-06-01 14:53:22,832 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1996, Test RMSE: 6.3894, Test MAPE: 0.0829
 2023-06-01 14:53:22,867 - easytorch-training - INFO - Result <test>: [test_time: 157.18 (s), test_MAE: 2.5759, test_RMSE: 5.1883, test_MAPE: 0.0643]
 2023-06-01 14:53:23,295 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_005.pt saved
 2023-06-01 14:53:23,296 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:47
@@ -125,9 +110,6 @@ Parameter Group 0
 2023-06-01 15:01:01,498 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8528, Test RMSE: 5.6364, Test MAPE: 0.0762
 2023-06-01 15:01:01,501 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9595, Test RMSE: 5.8537, Test MAPE: 0.0796
 2023-06-01 15:01:01,504 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.0336, Test RMSE: 6.0481, Test MAPE: 0.0820
-2023-06-01 15:01:01,508 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.1011, Test RMSE: 6.1914, Test MAPE: 0.0835
-2023-06-01 15:01:01,511 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1649, Test RMSE: 6.3160, Test MAPE: 0.0852
-2023-06-01 15:01:01,515 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.2344, Test RMSE: 6.4350, Test MAPE: 0.0871
 2023-06-01 15:01:01,551 - easytorch-training - INFO - Result <test>: [test_time: 158.58 (s), test_MAE: 2.6350, test_RMSE: 5.2581, test_MAPE: 0.0697]
 2023-06-01 15:01:01,979 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_006.pt saved
 2023-06-01 15:01:01,979 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:17
@@ -145,9 +127,6 @@ Parameter Group 0
 2023-06-01 15:08:37,941 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8626, Test RMSE: 5.6482, Test MAPE: 0.0729
 2023-06-01 15:08:37,945 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9725, Test RMSE: 5.8762, Test MAPE: 0.0763
 2023-06-01 15:08:37,948 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.0541, Test RMSE: 6.0538, Test MAPE: 0.0792
-2023-06-01 15:08:37,951 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.1229, Test RMSE: 6.1937, Test MAPE: 0.0813
-2023-06-01 15:08:37,955 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1875, Test RMSE: 6.3373, Test MAPE: 0.0835
-2023-06-01 15:08:37,958 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.2369, Test RMSE: 6.4433, Test MAPE: 0.0850
 2023-06-01 15:08:37,993 - easytorch-training - INFO - Result <test>: [test_time: 157.35 (s), test_MAE: 2.6159, test_RMSE: 5.2488, test_MAPE: 0.0659]
 2023-06-01 15:08:38,427 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_007.pt saved
 2023-06-01 15:08:38,427 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:06
@@ -165,9 +144,6 @@ Parameter Group 0
 2023-06-01 15:16:15,633 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8108, Test RMSE: 5.6099, Test MAPE: 0.0699
 2023-06-01 15:16:15,636 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9250, Test RMSE: 5.8430, Test MAPE: 0.0733
 2023-06-01 15:16:15,640 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.0175, Test RMSE: 6.0385, Test MAPE: 0.0762
-2023-06-01 15:16:15,643 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.1012, Test RMSE: 6.2093, Test MAPE: 0.0787
-2023-06-01 15:16:15,646 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1728, Test RMSE: 6.3471, Test MAPE: 0.0806
-2023-06-01 15:16:15,649 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.2344, Test RMSE: 6.4690, Test MAPE: 0.0825
 2023-06-01 15:16:15,683 - easytorch-training - INFO - Result <test>: [test_time: 157.59 (s), test_MAE: 2.5895, test_RMSE: 5.2408, test_MAPE: 0.0636]
 2023-06-01 15:16:16,110 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_008.pt saved
 2023-06-01 15:16:16,111 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:14
@@ -184,9 +160,6 @@ Parameter Group 0
 2023-06-01 15:23:50,901 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8093, Test RMSE: 5.5851, Test MAPE: 0.0730
 2023-06-01 15:23:50,904 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9065, Test RMSE: 5.7914, Test MAPE: 0.0758
 2023-06-01 15:23:50,907 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9932, Test RMSE: 5.9774, Test MAPE: 0.0790
-2023-06-01 15:23:50,911 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0653, Test RMSE: 6.1285, Test MAPE: 0.0814
-2023-06-01 15:23:50,914 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1296, Test RMSE: 6.2662, Test MAPE: 0.0834
-2023-06-01 15:23:50,918 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1944, Test RMSE: 6.3919, Test MAPE: 0.0854
 2023-06-01 15:23:50,952 - easytorch-training - INFO - Result <test>: [test_time: 157.58 (s), test_MAE: 2.5740, test_RMSE: 5.1893, test_MAPE: 0.0657]
 2023-06-01 15:23:51,387 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_009.pt saved
 2023-06-01 15:23:51,387 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:53
@@ -203,9 +176,6 @@ Parameter Group 0
 2023-06-01 15:31:26,362 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8854, Test RMSE: 5.6254, Test MAPE: 0.0793
 2023-06-01 15:31:26,365 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9841, Test RMSE: 5.8323, Test MAPE: 0.0825
 2023-06-01 15:31:26,369 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.0754, Test RMSE: 6.0286, Test MAPE: 0.0859
-2023-06-01 15:31:26,372 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.1377, Test RMSE: 6.1724, Test MAPE: 0.0877
-2023-06-01 15:31:26,375 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.2094, Test RMSE: 6.3064, Test MAPE: 0.0902
-2023-06-01 15:31:26,379 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.2624, Test RMSE: 6.4115, Test MAPE: 0.0916
 2023-06-01 15:31:26,413 - easytorch-training - INFO - Result <test>: [test_time: 157.63 (s), test_MAE: 2.6425, test_RMSE: 5.2231, test_MAPE: 0.0714]
 2023-06-01 15:31:26,842 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_010.pt saved
 2023-06-01 15:31:27,016 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:40
@@ -223,9 +193,6 @@ Parameter Group 0
 2023-06-01 15:39:03,033 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8004, Test RMSE: 5.6016, Test MAPE: 0.0722
 2023-06-01 15:39:03,036 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8973, Test RMSE: 5.8232, Test MAPE: 0.0754
 2023-06-01 15:39:03,040 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9812, Test RMSE: 6.0102, Test MAPE: 0.0781
-2023-06-01 15:39:03,043 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0489, Test RMSE: 6.1570, Test MAPE: 0.0803
-2023-06-01 15:39:03,046 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1192, Test RMSE: 6.2998, Test MAPE: 0.0827
-2023-06-01 15:39:03,049 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1819, Test RMSE: 6.4109, Test MAPE: 0.0845
 2023-06-01 15:39:03,083 - easytorch-training - INFO - Result <test>: [test_time: 157.48 (s), test_MAE: 2.5654, test_RMSE: 5.2022, test_MAPE: 0.0653]
 2023-06-01 15:39:03,514 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_011.pt saved
 2023-06-01 15:39:03,514 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:37
@@ -242,9 +209,6 @@ Parameter Group 0
 2023-06-01 15:46:38,698 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7959, Test RMSE: 5.5861, Test MAPE: 0.0702
 2023-06-01 15:46:38,701 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8938, Test RMSE: 5.8061, Test MAPE: 0.0732
 2023-06-01 15:46:38,704 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9928, Test RMSE: 5.9981, Test MAPE: 0.0758
-2023-06-01 15:46:38,708 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0706, Test RMSE: 6.1550, Test MAPE: 0.0780
-2023-06-01 15:46:38,711 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1429, Test RMSE: 6.2866, Test MAPE: 0.0800
-2023-06-01 15:46:38,714 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.2153, Test RMSE: 6.4206, Test MAPE: 0.0819
 2023-06-01 15:46:38,749 - easytorch-training - INFO - Result <test>: [test_time: 157.83 (s), test_MAE: 2.5672, test_RMSE: 5.1908, test_MAPE: 0.0636]
 2023-06-01 15:46:39,181 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_012.pt saved
 2023-06-01 15:46:39,181 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:28
@@ -261,9 +225,6 @@ Parameter Group 0
 2023-06-01 15:54:15,092 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8020, Test RMSE: 5.6255, Test MAPE: 0.0726
 2023-06-01 15:54:15,096 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9044, Test RMSE: 5.8515, Test MAPE: 0.0755
 2023-06-01 15:54:15,100 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9827, Test RMSE: 6.0117, Test MAPE: 0.0778
-2023-06-01 15:54:15,104 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0471, Test RMSE: 6.1422, Test MAPE: 0.0797
-2023-06-01 15:54:15,107 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1073, Test RMSE: 6.2545, Test MAPE: 0.0812
-2023-06-01 15:54:15,111 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1609, Test RMSE: 6.3507, Test MAPE: 0.0826
 2023-06-01 15:54:15,145 - easytorch-training - INFO - Result <test>: [test_time: 157.80 (s), test_MAE: 2.5625, test_RMSE: 5.2009, test_MAPE: 0.0652]
 2023-06-01 15:54:15,580 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_013.pt saved
 2023-06-01 15:54:15,580 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:25
@@ -281,9 +242,6 @@ Parameter Group 0
 2023-06-01 16:01:54,425 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7856, Test RMSE: 5.5772, Test MAPE: 0.0716
 2023-06-01 16:01:54,428 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8777, Test RMSE: 5.7844, Test MAPE: 0.0746
 2023-06-01 16:01:54,432 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9553, Test RMSE: 5.9624, Test MAPE: 0.0771
-2023-06-01 16:01:54,435 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0234, Test RMSE: 6.1208, Test MAPE: 0.0795
-2023-06-01 16:01:54,438 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0863, Test RMSE: 6.2466, Test MAPE: 0.0813
-2023-06-01 16:01:54,441 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1461, Test RMSE: 6.3587, Test MAPE: 0.0829
 2023-06-01 16:01:54,479 - easytorch-training - INFO - Result <test>: [test_time: 158.69 (s), test_MAE: 2.5469, test_RMSE: 5.1752, test_MAPE: 0.0645]
 2023-06-01 16:01:54,911 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_014.pt saved
 2023-06-01 16:01:54,912 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:44
@@ -300,9 +258,6 @@ Parameter Group 0
 2023-06-01 16:09:35,140 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7989, Test RMSE: 5.6556, Test MAPE: 0.0725
 2023-06-01 16:09:35,144 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9030, Test RMSE: 5.8818, Test MAPE: 0.0758
 2023-06-01 16:09:35,147 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9864, Test RMSE: 6.0735, Test MAPE: 0.0787
-2023-06-01 16:09:35,150 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0552, Test RMSE: 6.2184, Test MAPE: 0.0808
-2023-06-01 16:09:35,153 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1190, Test RMSE: 6.3433, Test MAPE: 0.0827
-2023-06-01 16:09:35,157 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1811, Test RMSE: 6.4615, Test MAPE: 0.0845
 2023-06-01 16:09:35,192 - easytorch-training - INFO - Result <test>: [test_time: 158.35 (s), test_MAE: 2.5659, test_RMSE: 5.2544, test_MAPE: 0.0653]
 2023-06-01 16:09:35,623 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_015.pt saved
 2023-06-01 16:09:35,624 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:10
@@ -319,9 +274,6 @@ Parameter Group 0
 2023-06-01 16:17:12,704 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8141, Test RMSE: 5.6003, Test MAPE: 0.0739
 2023-06-01 16:17:12,707 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9202, Test RMSE: 5.8289, Test MAPE: 0.0776
 2023-06-01 16:17:12,711 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 3.0046, Test RMSE: 6.0226, Test MAPE: 0.0806
-2023-06-01 16:17:12,715 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0703, Test RMSE: 6.1815, Test MAPE: 0.0829
-2023-06-01 16:17:12,718 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1355, Test RMSE: 6.3242, Test MAPE: 0.0850
-2023-06-01 16:17:12,722 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1914, Test RMSE: 6.4373, Test MAPE: 0.0865
 2023-06-01 16:17:12,757 - easytorch-training - INFO - Result <test>: [test_time: 158.78 (s), test_MAE: 2.5723, test_RMSE: 5.2072, test_MAPE: 0.0664]
 2023-06-01 16:17:13,204 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_016.pt saved
 2023-06-01 16:17:13,205 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:13
@@ -338,9 +290,6 @@ Parameter Group 0
 2023-06-01 16:24:57,352 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8108, Test RMSE: 5.6578, Test MAPE: 0.0729
 2023-06-01 16:24:57,356 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9162, Test RMSE: 5.9061, Test MAPE: 0.0762
 2023-06-01 16:24:57,359 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9992, Test RMSE: 6.0797, Test MAPE: 0.0789
-2023-06-01 16:24:57,362 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0713, Test RMSE: 6.2316, Test MAPE: 0.0810
-2023-06-01 16:24:57,366 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1343, Test RMSE: 6.3553, Test MAPE: 0.0829
-2023-06-01 16:24:57,369 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.2016, Test RMSE: 6.4783, Test MAPE: 0.0849
 2023-06-01 16:24:57,404 - easytorch-training - INFO - Result <test>: [test_time: 159.65 (s), test_MAE: 2.5758, test_RMSE: 5.2509, test_MAPE: 0.0657]
 2023-06-01 16:24:57,836 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_017.pt saved
 2023-06-01 16:24:57,836 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:57
@@ -357,9 +306,6 @@ Parameter Group 0
 2023-06-01 16:32:33,663 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7906, Test RMSE: 5.5816, Test MAPE: 0.0716
 2023-06-01 16:32:33,666 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8916, Test RMSE: 5.8078, Test MAPE: 0.0750
 2023-06-01 16:32:33,670 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9764, Test RMSE: 5.9802, Test MAPE: 0.0775
-2023-06-01 16:32:33,673 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0521, Test RMSE: 6.1309, Test MAPE: 0.0798
-2023-06-01 16:32:33,676 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1185, Test RMSE: 6.2605, Test MAPE: 0.0815
-2023-06-01 16:32:33,680 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1681, Test RMSE: 6.3767, Test MAPE: 0.0829
 2023-06-01 16:32:33,715 - easytorch-training - INFO - Result <test>: [test_time: 157.97 (s), test_MAE: 2.5562, test_RMSE: 5.1792, test_MAPE: 0.0645]
 2023-06-01 16:32:34,143 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_018.pt saved
 2023-06-01 16:32:34,144 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:50
@@ -376,9 +322,6 @@ Parameter Group 0
 2023-06-01 16:40:10,099 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8068, Test RMSE: 5.6622, Test MAPE: 0.0729
 2023-06-01 16:40:10,102 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9081, Test RMSE: 5.8939, Test MAPE: 0.0762
 2023-06-01 16:40:10,105 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9916, Test RMSE: 6.0807, Test MAPE: 0.0789
-2023-06-01 16:40:10,109 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0621, Test RMSE: 6.2343, Test MAPE: 0.0811
-2023-06-01 16:40:10,112 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1229, Test RMSE: 6.3609, Test MAPE: 0.0829
-2023-06-01 16:40:10,116 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1808, Test RMSE: 6.4710, Test MAPE: 0.0847
 2023-06-01 16:40:10,150 - easytorch-training - INFO - Result <test>: [test_time: 157.79 (s), test_MAE: 2.5648, test_RMSE: 5.2508, test_MAPE: 0.0655]
 2023-06-01 16:40:10,581 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_019.pt saved
 2023-06-01 16:40:10,582 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:44
@@ -396,9 +339,6 @@ Parameter Group 0
 2023-06-01 16:47:47,079 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7761, Test RMSE: 5.6063, Test MAPE: 0.0713
 2023-06-01 16:47:47,083 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8739, Test RMSE: 5.8300, Test MAPE: 0.0745
 2023-06-01 16:47:47,087 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9565, Test RMSE: 6.0081, Test MAPE: 0.0771
-2023-06-01 16:47:47,091 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0268, Test RMSE: 6.1646, Test MAPE: 0.0793
-2023-06-01 16:47:47,095 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0885, Test RMSE: 6.2874, Test MAPE: 0.0812
-2023-06-01 16:47:47,098 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1480, Test RMSE: 6.3966, Test MAPE: 0.0828
 2023-06-01 16:47:47,133 - easytorch-training - INFO - Result <test>: [test_time: 157.64 (s), test_MAE: 2.5399, test_RMSE: 5.2051, test_MAPE: 0.0643]
 2023-06-01 16:47:47,567 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_020.pt saved
 2023-06-01 16:47:47,771 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:43
@@ -415,9 +355,6 @@ Parameter Group 0
 2023-06-01 16:55:23,628 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8051, Test RMSE: 5.6483, Test MAPE: 0.0743
 2023-06-01 16:55:23,631 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8939, Test RMSE: 5.8541, Test MAPE: 0.0773
 2023-06-01 16:55:23,634 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9711, Test RMSE: 6.0273, Test MAPE: 0.0798
-2023-06-01 16:55:23,638 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0359, Test RMSE: 6.1605, Test MAPE: 0.0817
-2023-06-01 16:55:23,641 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0944, Test RMSE: 6.2708, Test MAPE: 0.0834
-2023-06-01 16:55:23,644 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1475, Test RMSE: 6.3668, Test MAPE: 0.0848
 2023-06-01 16:55:23,678 - easytorch-training - INFO - Result <test>: [test_time: 157.85 (s), test_MAE: 2.5560, test_RMSE: 5.2167, test_MAPE: 0.0665]
 2023-06-01 16:55:24,111 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_021.pt saved
 2023-06-01 16:55:24,111 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:38
@@ -434,9 +371,6 @@ Parameter Group 0
 2023-06-01 17:03:00,809 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7891, Test RMSE: 5.6503, Test MAPE: 0.0736
 2023-06-01 17:03:00,812 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8910, Test RMSE: 5.8777, Test MAPE: 0.0772
 2023-06-01 17:03:00,816 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9713, Test RMSE: 6.0536, Test MAPE: 0.0798
-2023-06-01 17:03:00,820 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0438, Test RMSE: 6.2069, Test MAPE: 0.0820
-2023-06-01 17:03:00,824 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1079, Test RMSE: 6.3307, Test MAPE: 0.0840
-2023-06-01 17:03:00,828 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1652, Test RMSE: 6.4361, Test MAPE: 0.0855
 2023-06-01 17:03:00,861 - easytorch-training - INFO - Result <test>: [test_time: 158.00 (s), test_MAE: 2.5507, test_RMSE: 5.2351, test_MAPE: 0.0661]
 2023-06-01 17:03:01,297 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_022.pt saved
 2023-06-01 17:03:01,297 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:37
@@ -453,9 +387,6 @@ Parameter Group 0
 2023-06-01 17:10:36,440 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7796, Test RMSE: 5.6126, Test MAPE: 0.0720
 2023-06-01 17:10:36,444 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8765, Test RMSE: 5.8261, Test MAPE: 0.0750
 2023-06-01 17:10:36,447 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9616, Test RMSE: 5.9981, Test MAPE: 0.0776
-2023-06-01 17:10:36,450 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0328, Test RMSE: 6.1487, Test MAPE: 0.0798
-2023-06-01 17:10:36,454 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0898, Test RMSE: 6.2665, Test MAPE: 0.0815
-2023-06-01 17:10:36,457 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1474, Test RMSE: 6.3691, Test MAPE: 0.0830
 2023-06-01 17:10:36,491 - easytorch-training - INFO - Result <test>: [test_time: 157.54 (s), test_MAE: 2.5457, test_RMSE: 5.1955, test_MAPE: 0.0648]
 2023-06-01 17:10:36,920 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_023.pt saved
 2023-06-01 17:10:36,920 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:29
@@ -472,9 +403,6 @@ Parameter Group 0
 2023-06-01 17:18:12,230 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7695, Test RMSE: 5.5994, Test MAPE: 0.0703
 2023-06-01 17:18:12,233 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8626, Test RMSE: 5.8062, Test MAPE: 0.0733
 2023-06-01 17:18:12,237 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9420, Test RMSE: 5.9824, Test MAPE: 0.0759
-2023-06-01 17:18:12,241 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0106, Test RMSE: 6.1218, Test MAPE: 0.0779
-2023-06-01 17:18:12,245 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0716, Test RMSE: 6.2453, Test MAPE: 0.0796
-2023-06-01 17:18:12,249 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1298, Test RMSE: 6.3556, Test MAPE: 0.0812
 2023-06-01 17:18:12,283 - easytorch-training - INFO - Result <test>: [test_time: 157.67 (s), test_MAE: 2.5326, test_RMSE: 5.1836, test_MAPE: 0.0634]
 2023-06-01 17:18:12,718 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_024.pt saved
 2023-06-01 17:18:12,719 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:23
@@ -491,9 +419,6 @@ Parameter Group 0
 2023-06-01 17:25:48,663 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8254, Test RMSE: 5.6945, Test MAPE: 0.0742
 2023-06-01 17:25:48,666 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.9122, Test RMSE: 5.9047, Test MAPE: 0.0772
 2023-06-01 17:25:48,670 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9833, Test RMSE: 6.0686, Test MAPE: 0.0795
-2023-06-01 17:25:48,673 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0504, Test RMSE: 6.2042, Test MAPE: 0.0818
-2023-06-01 17:25:48,676 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1153, Test RMSE: 6.3179, Test MAPE: 0.0838
-2023-06-01 17:25:48,680 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1665, Test RMSE: 6.4172, Test MAPE: 0.0851
 2023-06-01 17:25:48,714 - easytorch-training - INFO - Result <test>: [test_time: 158.03 (s), test_MAE: 2.5710, test_RMSE: 5.2483, test_MAPE: 0.0665]
 2023-06-01 17:25:49,142 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_025.pt saved
 2023-06-01 17:25:49,142 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:19
@@ -510,9 +435,6 @@ Parameter Group 0
 2023-06-01 17:33:25,126 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7814, Test RMSE: 5.6141, Test MAPE: 0.0728
 2023-06-01 17:33:25,129 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8780, Test RMSE: 5.8414, Test MAPE: 0.0758
 2023-06-01 17:33:25,133 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9560, Test RMSE: 6.0146, Test MAPE: 0.0781
-2023-06-01 17:33:25,136 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0245, Test RMSE: 6.1608, Test MAPE: 0.0802
-2023-06-01 17:33:25,139 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0839, Test RMSE: 6.2823, Test MAPE: 0.0819
-2023-06-01 17:33:25,142 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1386, Test RMSE: 6.3839, Test MAPE: 0.0832
 2023-06-01 17:33:25,176 - easytorch-training - INFO - Result <test>: [test_time: 157.73 (s), test_MAE: 2.5456, test_RMSE: 5.2071, test_MAPE: 0.0656]
 2023-06-01 17:33:25,607 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_026.pt saved
 2023-06-01 17:33:25,607 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:17
@@ -529,9 +451,6 @@ Parameter Group 0
 2023-06-01 17:41:02,215 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7677, Test RMSE: 5.5896, Test MAPE: 0.0723
 2023-06-01 17:41:02,219 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8628, Test RMSE: 5.7983, Test MAPE: 0.0756
 2023-06-01 17:41:02,223 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9409, Test RMSE: 5.9705, Test MAPE: 0.0782
-2023-06-01 17:41:02,226 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0063, Test RMSE: 6.1025, Test MAPE: 0.0802
-2023-06-01 17:41:02,232 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0624, Test RMSE: 6.2150, Test MAPE: 0.0818
-2023-06-01 17:41:02,236 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1113, Test RMSE: 6.3103, Test MAPE: 0.0829
 2023-06-01 17:41:02,270 - easytorch-training - INFO - Result <test>: [test_time: 158.12 (s), test_MAE: 2.5317, test_RMSE: 5.1690, test_MAPE: 0.0651]
 2023-06-01 17:41:02,702 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_027.pt saved
 2023-06-01 17:41:02,702 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:16
@@ -549,9 +468,6 @@ Parameter Group 0
 2023-06-01 17:48:38,981 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7753, Test RMSE: 5.6078, Test MAPE: 0.0709
 2023-06-01 17:48:38,984 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8757, Test RMSE: 5.8379, Test MAPE: 0.0741
 2023-06-01 17:48:38,988 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9583, Test RMSE: 6.0163, Test MAPE: 0.0766
-2023-06-01 17:48:38,991 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0310, Test RMSE: 6.1670, Test MAPE: 0.0789
-2023-06-01 17:48:38,994 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0941, Test RMSE: 6.2886, Test MAPE: 0.0807
-2023-06-01 17:48:38,998 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1538, Test RMSE: 6.3941, Test MAPE: 0.0823
 2023-06-01 17:48:39,032 - easytorch-training - INFO - Result <test>: [test_time: 157.70 (s), test_MAE: 2.5399, test_RMSE: 5.2009, test_MAPE: 0.0639]
 2023-06-01 17:48:39,462 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_028.pt saved
 2023-06-01 17:48:39,463 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:15
@@ -568,9 +484,6 @@ Parameter Group 0
 2023-06-01 17:56:14,335 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7825, Test RMSE: 5.6541, Test MAPE: 0.0730
 2023-06-01 17:56:14,339 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8800, Test RMSE: 5.8792, Test MAPE: 0.0765
 2023-06-01 17:56:14,342 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9601, Test RMSE: 6.0545, Test MAPE: 0.0791
-2023-06-01 17:56:14,346 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0323, Test RMSE: 6.2014, Test MAPE: 0.0816
-2023-06-01 17:56:14,349 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0899, Test RMSE: 6.3105, Test MAPE: 0.0832
-2023-06-01 17:56:14,353 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1469, Test RMSE: 6.4076, Test MAPE: 0.0848
 2023-06-01 17:56:14,388 - easytorch-training - INFO - Result <test>: [test_time: 157.89 (s), test_MAE: 2.5432, test_RMSE: 5.2304, test_MAPE: 0.0657]
 2023-06-01 17:56:14,849 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_029.pt saved
 2023-06-01 17:56:14,849 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:09
@@ -587,9 +500,6 @@ Parameter Group 0
 2023-06-01 18:03:50,040 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7731, Test RMSE: 5.6077, Test MAPE: 0.0720
 2023-06-01 18:03:50,043 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8716, Test RMSE: 5.8293, Test MAPE: 0.0754
 2023-06-01 18:03:50,046 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9467, Test RMSE: 5.9935, Test MAPE: 0.0777
-2023-06-01 18:03:50,050 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0174, Test RMSE: 6.1391, Test MAPE: 0.0800
-2023-06-01 18:03:50,053 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0814, Test RMSE: 6.2643, Test MAPE: 0.0819
-2023-06-01 18:03:50,057 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1436, Test RMSE: 6.3773, Test MAPE: 0.0836
 2023-06-01 18:03:50,091 - easytorch-training - INFO - Result <test>: [test_time: 157.54 (s), test_MAE: 2.5371, test_RMSE: 5.1960, test_MAPE: 0.0648]
 2023-06-01 18:03:50,518 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_030.pt saved
 2023-06-01 18:03:50,720 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:57:05
@@ -606,9 +516,6 @@ Parameter Group 0
 2023-06-01 18:11:25,569 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7905, Test RMSE: 5.6523, Test MAPE: 0.0719
 2023-06-01 18:11:25,572 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8799, Test RMSE: 5.8615, Test MAPE: 0.0749
 2023-06-01 18:11:25,576 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9618, Test RMSE: 6.0408, Test MAPE: 0.0776
-2023-06-01 18:11:25,579 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0301, Test RMSE: 6.1916, Test MAPE: 0.0798
-2023-06-01 18:11:25,582 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0912, Test RMSE: 6.3176, Test MAPE: 0.0815
-2023-06-01 18:11:25,586 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1462, Test RMSE: 6.4248, Test MAPE: 0.0831
 2023-06-01 18:11:25,620 - easytorch-training - INFO - Result <test>: [test_time: 157.77 (s), test_MAE: 2.5523, test_RMSE: 5.2335, test_MAPE: 0.0647]
 2023-06-01 18:11:26,051 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_031.pt saved
 2023-06-01 18:11:26,052 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:59
@@ -625,9 +532,6 @@ Parameter Group 0
 2023-06-01 18:19:01,523 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7667, Test RMSE: 5.6253, Test MAPE: 0.0714
 2023-06-01 18:19:01,527 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8597, Test RMSE: 5.8353, Test MAPE: 0.0744
 2023-06-01 18:19:01,530 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9387, Test RMSE: 6.0094, Test MAPE: 0.0772
-2023-06-01 18:19:01,534 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0105, Test RMSE: 6.1575, Test MAPE: 0.0796
-2023-06-01 18:19:01,538 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0768, Test RMSE: 6.2827, Test MAPE: 0.0817
-2023-06-01 18:19:01,542 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1321, Test RMSE: 6.3852, Test MAPE: 0.0832
 2023-06-01 18:19:01,576 - easytorch-training - INFO - Result <test>: [test_time: 157.58 (s), test_MAE: 2.5348, test_RMSE: 5.2125, test_MAPE: 0.0645]
 2023-06-01 18:19:02,010 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_032.pt saved
 2023-06-01 18:19:02,011 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:56
@@ -644,9 +548,6 @@ Parameter Group 0
 2023-06-01 18:26:37,896 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7899, Test RMSE: 5.6550, Test MAPE: 0.0721
 2023-06-01 18:26:37,899 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8879, Test RMSE: 5.8801, Test MAPE: 0.0753
 2023-06-01 18:26:37,903 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9645, Test RMSE: 6.0479, Test MAPE: 0.0776
-2023-06-01 18:26:37,906 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0330, Test RMSE: 6.1910, Test MAPE: 0.0796
-2023-06-01 18:26:37,909 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0927, Test RMSE: 6.3037, Test MAPE: 0.0814
-2023-06-01 18:26:37,913 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1522, Test RMSE: 6.4063, Test MAPE: 0.0830
 2023-06-01 18:26:37,948 - easytorch-training - INFO - Result <test>: [test_time: 157.72 (s), test_MAE: 2.5468, test_RMSE: 5.2307, test_MAPE: 0.0648]
 2023-06-01 18:26:38,383 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_033.pt saved
 2023-06-01 18:26:38,383 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:54
@@ -664,9 +565,6 @@ Parameter Group 0
 2023-06-01 18:34:15,282 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7574, Test RMSE: 5.5598, Test MAPE: 0.0705
 2023-06-01 18:34:15,285 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8514, Test RMSE: 5.7701, Test MAPE: 0.0735
 2023-06-01 18:34:15,289 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9310, Test RMSE: 5.9527, Test MAPE: 0.0762
-2023-06-01 18:34:15,292 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0026, Test RMSE: 6.1077, Test MAPE: 0.0784
-2023-06-01 18:34:15,295 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0636, Test RMSE: 6.2317, Test MAPE: 0.0802
-2023-06-01 18:34:15,298 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1226, Test RMSE: 6.3437, Test MAPE: 0.0819
 2023-06-01 18:34:15,331 - easytorch-training - INFO - Result <test>: [test_time: 157.65 (s), test_MAE: 2.5237, test_RMSE: 5.1669, test_MAPE: 0.0635]
 2023-06-01 18:34:15,762 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_034.pt saved
 2023-06-01 18:34:15,762 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:55
@@ -683,9 +581,6 @@ Parameter Group 0
 2023-06-01 18:41:51,964 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7690, Test RMSE: 5.6195, Test MAPE: 0.0717
 2023-06-01 18:41:51,967 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8653, Test RMSE: 5.8362, Test MAPE: 0.0747
 2023-06-01 18:41:51,971 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9403, Test RMSE: 6.0008, Test MAPE: 0.0770
-2023-06-01 18:41:51,974 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0140, Test RMSE: 6.1556, Test MAPE: 0.0792
-2023-06-01 18:41:51,977 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0733, Test RMSE: 6.2709, Test MAPE: 0.0810
-2023-06-01 18:41:51,980 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1324, Test RMSE: 6.3832, Test MAPE: 0.0826
 2023-06-01 18:41:52,016 - easytorch-training - INFO - Result <test>: [test_time: 158.02 (s), test_MAE: 2.5350, test_RMSE: 5.2109, test_MAPE: 0.0645]
 2023-06-01 18:41:52,449 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_035.pt saved
 2023-06-01 18:41:52,450 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:54
@@ -702,9 +597,6 @@ Parameter Group 0
 2023-06-01 18:49:28,544 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.8013, Test RMSE: 5.6918, Test MAPE: 0.0720
 2023-06-01 18:49:28,547 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8971, Test RMSE: 5.9113, Test MAPE: 0.0751
 2023-06-01 18:49:28,551 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9764, Test RMSE: 6.0788, Test MAPE: 0.0775
-2023-06-01 18:49:28,554 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0420, Test RMSE: 6.2162, Test MAPE: 0.0795
-2023-06-01 18:49:28,557 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.1019, Test RMSE: 6.3332, Test MAPE: 0.0812
-2023-06-01 18:49:28,561 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1557, Test RMSE: 6.4332, Test MAPE: 0.0828
 2023-06-01 18:49:28,596 - easytorch-training - INFO - Result <test>: [test_time: 158.17 (s), test_MAE: 2.5559, test_RMSE: 5.2567, test_MAPE: 0.0646]
 2023-06-01 18:49:29,057 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_036.pt saved
 2023-06-01 18:49:29,057 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:53
@@ -721,9 +613,6 @@ Parameter Group 0
 2023-06-01 18:57:05,076 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7616, Test RMSE: 5.5970, Test MAPE: 0.0707
 2023-06-01 18:57:05,080 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8552, Test RMSE: 5.8057, Test MAPE: 0.0736
 2023-06-01 18:57:05,084 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9325, Test RMSE: 5.9749, Test MAPE: 0.0760
-2023-06-01 18:57:05,087 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0037, Test RMSE: 6.1198, Test MAPE: 0.0780
-2023-06-01 18:57:05,091 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0641, Test RMSE: 6.2426, Test MAPE: 0.0797
-2023-06-01 18:57:05,095 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1226, Test RMSE: 6.3501, Test MAPE: 0.0813
 2023-06-01 18:57:05,130 - easytorch-training - INFO - Result <test>: [test_time: 158.34 (s), test_MAE: 2.5257, test_RMSE: 5.1816, test_MAPE: 0.0636]
 2023-06-01 18:57:05,564 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_037.pt saved
 2023-06-01 18:57:05,564 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:52
@@ -740,9 +629,6 @@ Parameter Group 0
 2023-06-01 19:04:40,755 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7861, Test RMSE: 5.6571, Test MAPE: 0.0722
 2023-06-01 19:04:40,758 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8781, Test RMSE: 5.8680, Test MAPE: 0.0751
 2023-06-01 19:04:40,762 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9545, Test RMSE: 6.0381, Test MAPE: 0.0776
-2023-06-01 19:04:40,765 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0218, Test RMSE: 6.1799, Test MAPE: 0.0796
-2023-06-01 19:04:40,768 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0804, Test RMSE: 6.2928, Test MAPE: 0.0814
-2023-06-01 19:04:40,771 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1336, Test RMSE: 6.3871, Test MAPE: 0.0829
 2023-06-01 19:04:40,807 - easytorch-training - INFO - Result <test>: [test_time: 158.00 (s), test_MAE: 2.5416, test_RMSE: 5.2281, test_MAPE: 0.0647]
 2023-06-01 19:04:41,234 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_038.pt saved
 2023-06-01 19:04:41,234 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:49
@@ -759,9 +645,6 @@ Parameter Group 0
 2023-06-01 19:12:17,932 - easytorch-training - INFO - Evaluate best model on test data for horizon 7, Test MAE: 2.7789, Test RMSE: 5.6448, Test MAPE: 0.0720
 2023-06-01 19:12:17,936 - easytorch-training - INFO - Evaluate best model on test data for horizon 8, Test MAE: 2.8725, Test RMSE: 5.8594, Test MAPE: 0.0750
 2023-06-01 19:12:17,940 - easytorch-training - INFO - Evaluate best model on test data for horizon 9, Test MAE: 2.9493, Test RMSE: 6.0276, Test MAPE: 0.0774
-2023-06-01 19:12:17,943 - easytorch-training - INFO - Evaluate best model on test data for horizon 10, Test MAE: 3.0204, Test RMSE: 6.1799, Test MAPE: 0.0797
-2023-06-01 19:12:17,947 - easytorch-training - INFO - Evaluate best model on test data for horizon 11, Test MAE: 3.0792, Test RMSE: 6.2971, Test MAPE: 0.0815
-2023-06-01 19:12:17,951 - easytorch-training - INFO - Evaluate best model on test data for horizon 12, Test MAE: 3.1351, Test RMSE: 6.4018, Test MAPE: 0.0831
 2023-06-01 19:12:17,986 - easytorch-training - INFO - Result <test>: [test_time: 158.12 (s), test_MAE: 2.5385, test_RMSE: 5.2254, test_MAPE: 0.0647]
 2023-06-01 19:12:18,417 - easytorch-training - INFO - Checkpoint checkpoints/STEP_100/6861e841283484506f2aa0ae0f21069a/STEP_039.pt saved
 2023-06-01 19:12:18,418 - easytorch-training - INFO - The estimated training finish time is 2023-06-02 02:56:50
