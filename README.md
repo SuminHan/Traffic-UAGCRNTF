@@ -4,7 +4,7 @@
 
 Traffic Prediction models - UAGCRN and UAGCTransformer
 
-CIKM 2023 accepted - "Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis" (acceptance rate 24%)
+CIKM 2023 accepted - "Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis" [paper](CIKM_2023_Enhancing_Spatiotemporal_Traffic_Prediction_through_Urban_Activity_Analysis.pdf) (acceptance rate 24%)
 
 
 # Code
