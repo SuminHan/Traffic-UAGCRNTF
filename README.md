@@ -4,6 +4,9 @@
 
 Traffic Prediction models - UAGCRN and UAGCTransformer
 
+CIKM 2023 accepted - "Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis" (acceptance rate 24%)
+
+
 # Code
 
 This installation command worked with our code execution:
