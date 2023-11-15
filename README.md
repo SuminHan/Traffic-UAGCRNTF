@@ -4,33 +4,7 @@
 
 Traffic Prediction models - UAGCRN and UAGCTransformer
 
-CIKM 2023 accepted - "Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis" [paper](https://doi.org/10.1145/3583780.3614867) (acceptance rate 24%)
-
-
-# Code
-
-This installation command worked with our code execution:
-
-    conda deactivate
-    conda env remove -n CIKM
-    conda create -n CIKM -y
-    conda activate CIKM 
-    conda install python==3.10 -y
-    pip install tensorflow-gpu==2.10.0
-    pip install tqdm
-    pip install tables
-    pip install scipy==1.10.1
-    pip install pandas==1.5.3
-    pip install numpy==1.23.5
-    
-    python train.py --model_name=MyUAGCRN --dataset=metr-la --Q=12 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
-    python train.py --model_name=MyUAGCRN --dataset=pems-bay --Q=12 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
-    python train.py --model_name=MyUAGCRN --dataset=pemsd7 --Q=9 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
-    python train.py --model_name=MyUAGCTransformer --dataset=metr-la --Q=12 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
-    python train.py --model_name=MyUAGCTransformer --dataset=pems-bay --Q=12 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
-    python train.py --model_name=MyUAGCTransformer --dataset=pemsd7 --Q=9 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
-
-
+CIKM 2023 - "Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis" [paper](https://doi.org/10.1145/3583780.3614867)
 
 # Dataset 
 
@@ -87,6 +61,30 @@ Corrected sensor location with osm path files are found in
 ![Alt Text](figures/adj_comparison_pemsd7.png)
 
 
+
+
+# Code
+
+This installation command worked with our code execution:
+
+    conda deactivate
+    conda env remove -n CIKM
+    conda create -n CIKM -y
+    conda activate CIKM 
+    conda install python==3.10 -y
+    pip install tensorflow-gpu==2.10.0
+    pip install tqdm
+    pip install tables
+    pip install scipy==1.10.1
+    pip install pandas==1.5.3
+    pip install numpy==1.23.5
+    
+    python train.py --model_name=MyUAGCRN --dataset=metr-la --Q=12 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
+    python train.py --model_name=MyUAGCRN --dataset=pems-bay --Q=12 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
+    python train.py --model_name=MyUAGCRN --dataset=pemsd7 --Q=9 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
+    python train.py --model_name=MyUAGCTransformer --dataset=metr-la --Q=12 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
+    python train.py --model_name=MyUAGCTransformer --dataset=pems-bay --Q=12 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
+    python train.py --model_name=MyUAGCTransformer --dataset=pemsd7 --Q=9 --activity_embedding --sensor_embedding --graph_type=cooccur_dist
 
 
 # Performance Comparison
