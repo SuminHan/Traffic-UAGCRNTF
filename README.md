@@ -8,6 +8,8 @@ CIKM 2023 - "Enhancing Spatio-temporal Traffic Prediction through Urban Human Ac
 
 # Dataset 
 
+You can download from <https://www.dropbox.com/scl/fi/6wlfzqjl9ix2v4m453stv/dataset.zip?rlkey=lchozhd93f7siffcuc9ec5kgk&st=32wb508j&dl=0>
+
 ## Traffic Dataset
 
 * california-vds.json: https://pems.dot.ca.gov/
